@@ -23,6 +23,10 @@ body {
 	overflow: hidden;
 }
 
+h1 {
+	text-align: center;
+}
+
 .main {
 	position: absolute;
 	height: 100%;
