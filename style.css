@@ -23,10 +23,6 @@ body {
 	overflow: hidden;
 }
 
-h1 {
-	text-align: center;
-}
-
 .main {
 	position: absolute;
 	height: 100%;
@@ -48,6 +44,7 @@ h1 {
 	font-size: 4rem;
   margin-bottom: .5rem;
 	width: 100%;
+	text-align: center;
 }
 
 .sub-title {
